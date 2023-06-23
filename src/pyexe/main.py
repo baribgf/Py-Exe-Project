@@ -135,8 +135,7 @@ def handle_script(script: str):
 
 
 def handle_quotes(string: str):
-    string = string.replace("\'", "\"\"\"")
-    return string
+    return string.replace("\'", "\"\"\"")
 
 
 NEW_MAIN_PY_PATH = THIS_PATH + "/" + \
