@@ -14,9 +14,9 @@ $ ./py-exe.sh
 $ ./py-exe.sh <main-python-source> <out-exe-path> <do-not-compile-all-project>
 ```
 
-## Collaboration:
+#### Collaboration:
 Just create a pull request.
 
-### NOTICE:
+#### NOTICE:
 
 * Host system must have python installed with the same version the project built by, added to path and known as `$ python` to run the distributed package, this should be reported in the package documentations or guide.
