@@ -1,2 +1,1 @@
-- Create 2 options for the user to choose between running the project from an initially installed python interpreter or a portable one (current version have just the first choice).
-- 
+- Create 2 options for the user to choose between running the project from an initially installed python interpreter or a portable one with setting it's path (current version have just the first choice).
