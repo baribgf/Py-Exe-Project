@@ -6,10 +6,10 @@ This is a `py-to-exe` converting tool.
 
 * Interactive mode:
 ```bash
-./py-exe.sh
+$ ./py-exe.sh
 ```
 
 * Direct mode:
 ```bash
-./py-exe.sh <main-python-source> <out-exe-path> <do-not-compile-all-project>
+$ ./py-exe.sh <main-python-source> <out-exe-path> <do-not-compile-all-project>
 ```
