@@ -14,4 +14,4 @@ $ ./py-exe.sh
 $ ./py-exe.sh <main-python-source> <out-exe-path> <do-not-compile-all-project>
 ```
 ### NOTICE:
-Host system must have python vX installed to run the distributed package.
+Host system must have python installed with the same version the project built by, added to path and known as `$ python` to run the distributed package, this should be reported in the package documentations or guide.
